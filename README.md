@@ -16,8 +16,9 @@
 # Links
 
 [Read the Docs Administration](https://readthedocs.org/)
-[Read the Docs documenation](https://docs.readthedocs.io/en/stable/index.html)
+[Read the Docs documentation](https://docs.readthedocs.io/en/stable/index.html)
 
+[Sphinx documentation](https://www.sphinx-doc.org/en/master/)
 [MyST in Sphinx - Getting started](https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html)
 
 # Build documentation
@@ -26,4 +27,4 @@
 
 	make html
 	
-> Open _build/html/index.html file
+> Ouvrir le fichier **_build/html/index.html** avec un navigateur internet
