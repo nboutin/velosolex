@@ -1,3 +1,1 @@
-# Mecanique
-## Moteur
-### Demontage
+# Demontage

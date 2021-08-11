@@ -17,19 +17,11 @@ Cette documentation se veut collaborative.
 > Site en construction (Aout 2021)
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
-   contribution/contribution.md
-   information/information.md
-   en_route/en_route.md
-   technique/chromes.md
-   technique/electrolyse.md
-   mecanique/cycle/cycle.md
-   mecanique/cycle/demontage.md
-   mecanique/cycle/montage.md
-   mecanique/moteur/moteur.md
-   mecanique/moteur/demontage.md
-   mecanique/moteur/montage.md
-   mecanique/moteur/moteur_amelioration.md
-   
+   contribution/contribution
+   information/information
+   en_route/en_route
+   technique/index
+   mecanique/index
