@@ -28,3 +28,8 @@
 	make html
 	
 > Ouvrir le fichier **_build/html/index.html** avec un navigateur internet
+
+# Todo
+
+[ ] Ajouter les fichiers
+[ ] Ahouter section liens, forum, boutique, blog, chaine youtube, groupe Facebook

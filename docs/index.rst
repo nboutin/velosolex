@@ -23,6 +23,7 @@ Cette documentation se veut collaborative.
    contribution/contribution.md
    information/information.md
    en_route/en_route.md
+   technique/chromes.md
    technique/electrolyse.md
    mecanique/cycle/cycle.md
    mecanique/cycle/demontage.md
@@ -30,4 +31,5 @@ Cette documentation se veut collaborative.
    mecanique/moteur/moteur.md
    mecanique/moteur/demontage.md
    mecanique/moteur/montage.md
+   mecanique/moteur/moteur_amelioration.md
    

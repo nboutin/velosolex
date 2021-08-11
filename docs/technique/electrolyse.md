@@ -7,3 +7,5 @@ L'electrolyse permet de:
 
 Après un bain d'éléctrolyse, il faut rincer les pièces avec ???.
 
+Utilisation de gros sel ?
+
