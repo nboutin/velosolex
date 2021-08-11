@@ -1,5 +1,4 @@
-# Technique
-## Electrolyse
+# Electrolyse
 
 L'electrolyse permet de:
 - décoller les peintrues abîmées

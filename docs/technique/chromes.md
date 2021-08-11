@@ -1,6 +1,5 @@
-# Technique
-## Chromes
-### Restauration
+# Chromes
+## Restauration
 
 Plusieurs solutions existent:
 - Bain électrolyse

@@ -6,4 +6,3 @@ Les modèles par ordre de sortie:
 - TUM80
 - TUM80A
 - TUM80A CM6.5 LI
-

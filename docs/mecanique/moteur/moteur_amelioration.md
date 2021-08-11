@@ -1,11 +1,9 @@
-# Mecanique
-## Moteur
-### Amelioration
+# Amelioration
 
-#### Les transferts
+## Les transferts
 
 Usinage
 
-#### Piston
+## Piston
 
 Limer le piston qui obstru l'admission en position haute.
